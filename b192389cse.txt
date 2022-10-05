@@ -1,0 +1,81 @@
+<html>
+
+
+<body >
+<table boarder=""  bgcolor="cyan" width="60%" height="20%"
+" align="center">
+<h1 align="center"> <font color="cyan" >COLLEGE TIME TABLE</font></h1>
+<table border="2" cellpadding="9" bgcolor="cyan" align="center">
+<tr> 
+<td rowspan="1"> </td>
+<td> 8:30-9:30</td>
+<td> 9:30-10:30</td>
+<td> 10:30-11:30</td>
+<td> 11:30-12:30</td>
+<td> 12:30-2:00</td>
+<td> 2:00-3:00</td>
+<td> 3:00-4:00</td>
+<td> 4:00-5:00</td>
+</tr>
+<tr>
+<td> MONDAY</td>
+<th>   ---  </th>
+<td><font color="blue">SUB1</font> </td>
+<td> <font color="pink">SUB2</font></td>
+<td> <font color="red">SUB3</font></td>
+<td rowspan="6"> LUNCH</td>
+<td> <font color="brown">SUB4</font></td>
+<td> <font color="red">SUB5</font></td>
+<td> COUNSELLING CLASS</td>
+</tr>
+<tr>
+<td> TUESDAY</td>
+<td>  <font color="blue">SUB1</font> </td>
+<td><font color="red">SUB2</font> </td>
+<td> <font color="pink">SUB3</font></td>
+<th> ---</th>
+<td> <font color="orange">SUB4</font></td>
+<td> <font color="brown">SUB5</font></td>
+<td> LIBRARY</td>
+</tr>
+<tr>
+<td> WEDNESDAY</td>
+<td> <font color="pink"> SUB1</font>  </td>
+<td><font color="orange">SUB2</font> </td>
+<td> <font color="brown">SWA</font></td>
+<th> ---</th>
+<th COLSPAN="3"> <font color="green">LAB</font></th>
+</tr>
+<tr>
+<td> THRUSADY</td>
+<td>   SUB1  </td>
+<td><font color="brown">SUB2 </font></td>
+<td> <font color="orange">SUB3</font></td>
+<th> ---</th>
+<td><font color="blue"> SUB4</font></td>
+<td> <font color="red">SUB5</font></td>
+<td> LIBRARY</td>
+</tr>
+<tr>
+<td> FRIDAY</td>
+<td>   <font color="orange">SUB1 </font> </td>
+<td><font color="brown" >SUB2</font> </td>
+<td><font color="blue"> SUB3</font></td>
+<th> ---</th>
+<td> <font color="pink"> SUB4</font></td>
+<td> <font color="brown">SUB5</font></td>
+<td> LIBRARY</td>
+</tr>
+<tr>
+<td> SATURDAY</td>
+<td>   <font color="red">SUB1</font>  </td>
+<th COLSPAN="3"> seminar</th>
+<td> <font color="pink">SUB4</font></td>
+<td> <font color="brown">SUB5</font></td>
+<td> LIBRARY</td>
+</tr>
+
+</table>
+</table>
+</body>
+</html>
